@@ -75,3 +75,20 @@ DerivedDataCache/*
 
 SourceFiles/*
 HoneyHeist/Saved/Config/Windows/Editor.ini
+*.bin
+*.ini
+*.ini
+HoneyHeist/Saved/Config/Windows/Engine.ini
+HoneyHeist/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+HoneyHeist/Intermediate/CachedAssetRegistry.bin
+HoneyHeist/Intermediate/CachedAssetRegistry.bin
+HoneyHeist/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+HoneyHeist/Saved/AutoScreenshot.png
+HoneyHeist/Saved/Autosaves/Game/Gameplay/HH_FunctionsLib_Auto4.uasset
+HoneyHeist/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+HoneyHeist/Saved/Autosaves/Game/Gameplay/HH_FunctionsLib_Auto4.uasset
+HoneyHeist/Saved/AutoScreenshot.png
+HoneyHeist/Saved/Autosaves/Game/Gameplay/HH_FunctionsLib_Auto4.uasset
+HoneyHeist/Saved/AutoScreenshot.png
+HoneyHeist/Content/Gameplay/BeeGame_IF.uasset
+HoneyHeist/Intermediate/CachedAssetRegistry.bin
