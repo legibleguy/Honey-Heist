@@ -99,3 +99,6 @@ HoneyHeist/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 HoneyHeist/Saved/Config/Windows/Engine.ini
 HoneyHeist/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.bin
+HoneyHeist/Content/Gameplay/Collectibles/BP_Collectible.uasset
+HoneyHeist/Saved/Config/Windows/Editor.ini
+HoneyHeist/Saved/Config/Windows/Engine.ini
