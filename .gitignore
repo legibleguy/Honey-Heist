@@ -78,6 +78,7 @@ HoneyHeist/Saved/Config/Windows/Editor.ini
 *.bin
 *.ini
 *.ini
+HoneyHeist/Builds/
 HoneyHeist/Saved/Config/Windows/Engine.ini
 HoneyHeist/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 HoneyHeist/Intermediate/CachedAssetRegistry.bin
